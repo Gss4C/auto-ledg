@@ -1,0 +1,192 @@
+2025-07-30 SOLDINOS POR ASTURIAS
+    Assets:Checking:Hype    -255,0€
+
+2025-07-30 EASY SERVICE SRL NAPOLI
+    Assets:Checking:Hype    -12,41€
+
+2025-07-30 0017549CO00401873855CO187385500401873855
+    Assets:Checking:Hype    -216,03€
+
+2025-07-28 AFFITTO + CONDOMINIO MESE LUGLIO 2025
+    Assets:Checking:Hype    -800,0€
+
+2025-07-27 BOREALE CASERTA    CE
+    Assets:Checking:Hype    -10,6€
+
+2025-07-27 PARCHEGGI CARLO III CASERTA    CE
+    Assets:Checking:Hype    -6,0€
+
+2025-07-27 DAMAN RISTORAZIONE CASERTA    CE
+    Assets:Checking:Hype    -8,5€
+
+2025-07-27 OIL COMPANY SRL QUARTO
+    Assets:Checking:Hype    -13,0€
+
+2025-07-26 SUPERO QUARTO
+    Assets:Checking:Hype    -2,45€
+
+2025-07-26 TIME S R L QUARTO
+    Assets:Checking:Hype    -23,5€
+
+2025-07-26 LUCREZIO SRL NAPOLI     NA
+    Assets:Checking:Hype    -19,0€
+
+2025-07-25 SUPERO QUARTO
+    Assets:Checking:Hype    -11,01€
+
+2025-07-25 CAFFETTERIA ETOILE NAPOLI     NA
+    Assets:Checking:Hype    -1,3€
+
+2025-07-24 AMZN Mktp IT 800-279-6620
+    Assets:Checking:Hype    -8,79€
+
+2025-07-24 TRAGEN SRL QUARTO
+    Assets:Checking:Hype    -10,0€
+
+2025-07-23 TANA CAMALDOLI CAMALDOLI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-23 BANCHE
+    Assets:Checking:Hype    -200,0€
+
+2025-07-22 ALFRE & RAFFA SNC POZZUOLI
+    Assets:Checking:Hype    -16,0€
+
+2025-07-22 Mezzo affitto
+    Assets:Checking:Hype    350,00€
+
+2025-07-21 SUPERO QUARTO
+    Assets:Checking:Hype    -2,42€
+
+2025-07-21 TANA ASTRONI ASTRONI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-21 GRUPPO BAIANO SUPERMERCA NAPOLI
+    Assets:Checking:Hype    -3,45€
+
+2025-07-21 ACCREDITO COMPETENZE MESE DI GIUGNO 2025
+    Assets:Checking:Hype    1949,49€
+
+2025-07-20 TANA ASTRONI ASTRONI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-20 LE ARCATE BISTROT NAPOLI     NA
+    Assets:Checking:Hype    -5,0€
+
+2025-07-20 TANA CAPODIMONTE CAPODIMONTE
+    Assets:Checking:Hype    -1,0€
+
+2025-07-19 VESUVIANI SAS PIZZAIO.. NAPOLI
+    Assets:Checking:Hype    -26,0€
+
+2025-07-19 DE BIASE MARCO NAPOLI
+    Assets:Checking:Hype    -45,0€
+
+2025-07-19 EASY SERVICE SRL NAPOLI
+    Assets:Checking:Hype    -10,0€
+
+2025-07-19 LOVE HOME POZZUOLI   NA
+    Assets:Checking:Hype    -19,75€
+
+2025-07-19 UNOBRAVO SRL SB +393760086144
+    Assets:Checking:Hype    -49,0€
+
+2025-07-18 TIME S R L QUARTO
+    Assets:Checking:Hype    -17,3€
+
+2025-07-18 DONNA EVA S.R.L.S. QUARTO
+    Assets:Checking:Hype    -25,0€
+
+2025-07-18 Vodafone Italy
+    Assets:Checking:Hype    -24,9€
+
+2025-07-17 GIUCARO SRLS NAPOLI     NA
+    Assets:Checking:Hype    -8,5€
+
+2025-07-16 SUPERO QUARTO
+    Assets:Checking:Hype    -14,22€
+
+2025-07-15 FARINA' QUARTO     NA
+    Assets:Checking:Hype    -5,0€
+
+2025-07-15 STAZIONE B CARBURANTI POZZUOLI   NA
+    Assets:Checking:Hype    -15,8€
+
+2025-07-15 1043475931363/PAYPAL
+    Assets:Checking:Hype    -2,35€
+
+2025-07-15 1043478564692 PAYPAL
+    Assets:Checking:Hype    -2,25€
+
+2025-07-13 FAME FAME SAS POZZUOLI   NA
+    Assets:Checking:Hype    -14,0€
+
+2025-07-12 SumUp  *Duel Club Napoli
+    Assets:Checking:Hype    -4,0€
+
+2025-07-12 DUEL CLUB POZZUOLI   NA
+    Assets:Checking:Hype    -10,0€
+
+2025-07-12 SAPORI FLEGREI POZZUOLI   NA
+    Assets:Checking:Hype    -4,0€
+
+2025-07-12 SUPERO QUARTO
+    Assets:Checking:Hype    -6,36€
+
+2025-07-12 NETFLIX.COM Milan
+    Assets:Checking:Hype    -13,99€
+
+2025-07-11 SAPORI FLEGREI POZZUOLI   NA
+    Assets:Checking:Hype    -6,0€
+
+2025-07-10 TANA ASTRONI ASTRONI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-10 SPORTELLO 6 CUP NAPOLI NAPOLI
+    Assets:Checking:Hype    -25,0€
+
+2025-07-10 1043402763575/PAYPAL
+    Assets:Checking:Hype    -5,0€
+
+2025-07-08 SumUp  *Manuela Sperandeo Pozzuoli
+    Assets:Checking:Hype    -40,0€
+
+2025-07-08 UNOBRAVO SRL SB +393760086144
+    Assets:Checking:Hype    -49,0€
+
+2025-07-08 1043319085775/PAYPAL
+    Assets:Checking:Hype    -29,44€
+
+2025-07-07 TANA ASTRONI ASTRONI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-07 CPM AFRAGOLA   NA
+    Assets:Checking:Hype    -16,65€
+
+2025-07-07 TANA CAPODICHINO CAPODICHINO
+    Assets:Checking:Hype    -1,0€
+
+2025-07-06 DON CICCIO SRL POZZUOLI   NA
+    Assets:Checking:Hype    -7,0€
+
+2025-07-06 SumUp  *BAR ANGELO SRL Acerra
+    Assets:Checking:Hype    -2,4€
+
+2025-07-06 SUPERO QUARTO
+    Assets:Checking:Hype    -18,49€
+
+2025-07-04 TANA ASTRONI ASTRONI
+    Assets:Checking:Hype    -1,0€
+
+2025-07-04 BAR TICO MANIA NAPOLI
+    Assets:Checking:Hype    -4,0€
+
+2025-07-03 CONAD SUPERMERCATO CONAD QUARTO     NA
+    Assets:Checking:Hype    -6,34€
+
+2025-07-01 DISTRIBUTORE NUOVA FUEL C NAPOLI     NA
+    Assets:Checking:Hype    -10,0€
+
+2025-07-01 CANONE HYPE PLUS 06/2025
+    Assets:Checking:Hype    -1,0€
+

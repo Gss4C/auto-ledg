@@ -1,0 +1,13 @@
+{Data operazione} {Descrizione}
+    Assets:Checking:Hype                        {Importo ( € )} [€]
+    [Spazio vuoto]
+    
+2025-07-06 Superò
+    Assets:Checking:Hype                      -18,49€
+    
+2025-07-04 Tana Astroni
+    Assets:Checking:Hype                        -1,0€
+    
+2025-07-04 bar Tico Mania
+    Assets:Checking:Hype                        -4,0€
+    
