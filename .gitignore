@@ -1,4 +1,5 @@
 venv/
 dati/
+src/__pycache__/
 testing.ipynb
 test_output.txt
